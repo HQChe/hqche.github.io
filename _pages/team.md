@@ -36,7 +36,7 @@ permalink: /team/
 </div>
 
 {% if site.data.team_members.size > 0 %}
-## Current Collaborators
+## Team Members
 
 <div class="team-grid">
 {% for member in site.data.team_members %}
@@ -56,7 +56,7 @@ permalink: /team/
 {% endif %}
 
 {% if site.data.alumni.size > 0 %}
-## Alumni
+## Current Collaborators
 
 <div class="section-card">
 <table class="alumni-table">
