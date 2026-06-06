@@ -2,46 +2,6 @@
 # Each entry needs: name, duration, info
 # Optional: photo, email
 
-- name: Weiwei Xing
-  photo: team/albert-hibbs.svg
-  duration: 2025-
-  info: CFD-DEM modeling of packed bed heat storage
-
-- name: Kailin Lu
-  photo: team/william-frazer.svg
-  duration: 2025-
-  info: Particle mixing and segregation
-  
-- name: Lang Ou
-  photo: team/robert-hellwarth.svg
-  duration: 2025-
-  info: Fully resolved CFD-DEM
-  
-- name: Juntian Qin
-  photo: team/robert-hellwarth.svg
-  duration: 2025-
-  info: Continuous particle coating
-
-- name: Zhihao Wang
-  photo: team/robert-hellwarth.svg
-  duration: 2024-
-  info: Pore network model of granular matter
-
-- name: Hanbing Pan
-  photo: team/robert-hellwarth.svg
-  duration: 2024-
-  info: Defluidization modeling in pharmaceutical process
-
-- name: Xiyang Ye
-  photo: team/robert-hellwarth.svg
-  duration: 2024-
-  info: CFD-DEM modeling of side-spray fluidized bed
-
-- name: Zirui Su
-  photo: team/robert-hellwarth.svg
-  duration: 2024-
-  info: Heat and mass transfer of thermal thick particles
-
 - name: Kun Li
   photo: team/george-zweig.svg
   info: North University of China, PEPT technology
