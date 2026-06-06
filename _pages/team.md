@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 {% if site.data.pi[0].education %}
 <ul style="margin-top: var(--space-4);">
-{% for education in site.data.pi[0].education %}
+{% for education in site.data.pi[0].educationshort %}
 <li>{{ education | replace: "-","&#8211;" }}</li>
 {% endfor %}
 </ul>
