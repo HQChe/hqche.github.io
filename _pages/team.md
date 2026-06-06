@@ -61,7 +61,7 @@ permalink: /team/
 <div class="section-card">
 <table class="alumni-table">
 <thead>
-<tr><th>Name</th><th>Duration</th><th>Current Position</th></tr>
+<tr><th>Name</th><th>Duration</th><th>Position & Research Interests</th></tr>
 </thead>
 <tbody>
 {% for member in site.data.alumni %}
