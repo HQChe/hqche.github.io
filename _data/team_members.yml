@@ -4,49 +4,49 @@
 # Photos go in images/ or images/team/
 
 - name: Weiwei Xing
-  photo: team/albert-hibbs.svg
+  photo: team/weiwei.jpg
   duration: 2025-
   email: xingweiwei1223@outlook.com
   info: Research: CFD-DEM modeling of packed bed heat storage (M.Sc. student, admitted 2025)
   
 - name: Kailin Lu
-  photo: team/william-frazer.svg
+  photo: team/kailin.jpg
   duration: 2025-
   email: lukailin2624528616@outlook.com
   info: Research: Particle mixing and segregation (M.Sc. student, admitted 2025)
   
 - name: Lang Ou
-  photo: team/robert-hellwarth.svg
+  photo: team/oulang.jpg
   duration: 2025-
   email: oulang123@outlook.com
   info: Research: Fully resolved CFD-DEM (M.Sc. student, admitted 2025)
 
 - name: Juntian Qin
-  photo: team/robert-hellwarth.svg
+  photo: team/juntian.jpg
   duration: 2025-
   email: 17776250405@163.com
   info: Research: Continuous particle coating (M.Sc. student, admitted 2025)
 
 - name: Zhihao Wang
-  photo: team/robert-hellwarth.svg
+  photo: team/zhihao.jpg
   duration: 2024-
   email: wzh3383916261@163.com
   info: Research: Pore network model of granular matter (M.Sc. student, admitted 2024)
 
 - name: Hanbing Pan
-  photo: team/robert-hellwarth.svg
+  photo: team/hanbing.jpg
   duration: 2024-
   email: bA18177097086@outlook.com
   info: Research: Defluidization modeling in pharmaceutical process (M.Sc. student, admitted 2024)
 
 - name: Xiyang Ye
-  photo: team/robert-hellwarth.svg
+  photo: team/xiyang.jpg
   duration: 2024-
   email: xiyang1958@outlook.com
   info: Research: CFD-DEM modeling of side-spray fluidized bed (M.Sc. student, admitted 2024)
 
 - name: Zirui Su
-  photo: team/robert-hellwarth.svg
+  photo: team/zirui.jpg
   duration: 2024-
   email: 17371589641@163.com
   info: Research: Heat and mass transfer of thermal thick particles (M.Sc. student, admitted 2024)
