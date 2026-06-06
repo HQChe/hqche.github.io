@@ -93,7 +93,8 @@ scholar:
   query: "@*"
   bibliography_list_attributes:
     reversed: "reversed"
-
+baseurl: "/mycv"
+url: "https://hqche.github.io"
 exclude:
   - Gemfile
   - Gemfile.lock
