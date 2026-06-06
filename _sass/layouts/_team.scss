@@ -78,8 +78,9 @@
 
   .pi-photo {
     width: 160px;
-    height: 160px;
-    border-radius: var(--radius-xl);
+    height: 360px;
+    //border-radius: var(--radius-xl);
+    border-radius: 50%;
     object-fit: cover;
     border: 2px solid var(--bg-primary);
     box-shadow:
