@@ -24,7 +24,7 @@ His research focuses on the application of advanced experimental measurement tec
 Further details, including a Chinese version of his biography, can be found on the university [website](https://me.gxu.edu.cn/)
 
 
-<div class="callout callout-success" markdown="0">
+<!-- <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
 <p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
 </div>
@@ -32,7 +32,7 @@ Further details, including a Chinese version of his biography, can be found on t
 <div class="banner-frame" markdown="0">
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
 <div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
-</div>
+</div> -->
 
 ### Areas of Expertise:
 
@@ -43,7 +43,7 @@ Further details, including a Chinese version of his biography, can be found on t
 
 For a complete list of publications, please visit: [Google Scholar](https://scholar.google.com/citations?user=aYxds5AAAAAJ&hl=en)
 ## Selected Publications
-### CFD–DEM / Multiphase Flow Modeling
+## CFD–DEM / Multiphase Flow Modeling
 
 * **Che, H.**, et al. (2021). A novel CFD-DEM coarse-graining method based on the Voronoi tessellation. *Powder Technology*, 384, 479–493.
 
@@ -58,20 +58,15 @@ For a complete list of publications, please visit: [Google Scholar](https://scho
 * **Che, H.**, et al. (2024). Numerical investigation of transient gas–solid heat transfer in a packed bed: Impact of intra-particle thermal diffusion. *Particuology*, 90, 404–411.
 
 
-### Tomography & Imaging / Multiphase Flow Measurements
+## Tomography & Imaging / Multiphase Flow Measurements
 
 * **Che, H.**, et al. (2018). Monitoring a lab-scale Wurster type fluidized bed process by electrical capacitance tomography. *Flow Measurement and Instrumentation*, 62, 223–234.
 
 * **Che, H.**, et al. (2018). Application of process tomography in gas–solid fluidised beds in different scales and structures. *Measurement Science and Technology*, 29(4), 044001.
 
 
-### Pharmaceutical process optimization / Industrial Applications
+## Pharmaceutical process optimization / Industrial Applications
 
 * **Che, H.**, et al. (2020). CFD-DEM study of gas-solid flow regimes in a Wurster type fluidized bed with experimental validation by electrical capacitance tomography. *Chemical Engineering Journal*, 389, 124280.
 
 * **Che, H.**, et al. (2022). Numerical investigation of particle circulation characteristics in a tapered fluidized bed. *Engineering Computations*, 39(9), 3296–3319.
-
-
-NEWS:
-------
-If you are interested in studying or pursuing a visiting opportunity in China, feel free to contact Hanqiao. He would be happy to talk with you.
