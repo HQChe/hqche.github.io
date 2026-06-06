@@ -25,9 +25,9 @@ links:
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: false #true              # show dark mode toggle in navbar
 description: "Academic webpage of Dr. Hanqiao Che"
-baseurl: ""
-url: ""
-
+  
+baseurl: "/mycv"
+url: "https://hqche.github.io"
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
   google_id: ""
@@ -39,7 +39,7 @@ nav_pages:
   # - name: about
   - name: publications
   # - name: talks
-  # - name: research
+  - name: research
   # - name: software
   - name: team
   # - name: teaching
@@ -93,8 +93,7 @@ scholar:
   query: "@*"
   bibliography_list_attributes:
     reversed: "reversed"
-baseurl: "/mycv"
-url: "https://hqche.github.io"
+
 exclude:
   - Gemfile
   - Gemfile.lock
