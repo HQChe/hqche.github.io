@@ -41,3 +41,15 @@
   photo: team/robert-hellwarth.svg
   duration: 2024-
   info: Heat and mass transfer of thermal thick particles
+
+- name: Kun Li
+  photo: team/george-zweig.svg
+  info: North University of China, PEPT technology
+
+- name: Yuanhe Yue
+  photo: team/albert-hibbs.svg
+  info: Hebei University of Science and Technology, CFD-DEM applications
+
+- name: Zhaohua Jiang
+  photo: team/thomas-curtright.svg
+  info: Chongqing Jiaotong University, Particle mixing and segregation
