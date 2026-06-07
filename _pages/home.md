@@ -24,7 +24,7 @@ permalink: /
 
 Hanqiao Che received his Ph.D. from the Institute of Engineering Thermophysics, Chinese Academy of Sciences, in July 2018. In October 2019, he joined Imperial College London as a postdoctoral researcher, where he worked on multiphase flow simulations in geotechnical engineering applications. In May 2021, he moved to the School of Chemical Engineering at the University of Birmingham to continue his postdoctoral research. Since December 2023, he has been serving as an Associate Professor in the School of Mechanical Engineering at Guangxi University.
 
-His research focuses on the application of advanced experimental measurement techniques and numerical simulation methods to investigate multiphase flow phenomena in industrial processes, with particular emphasis on gas–solid fluidization systems. He is currently a contributing developer to two widely used open-source multiphase flow platforms, LIGGGHTS and CPL-Library. Over the past five years, he has authored more than 20 peer-reviewed journal publications.
+His research focuses on the application of advanced experimental measurement techniques and numerical simulation methods to investigate multiphase flow phenomena in industrial processes, with particular emphasis on gas–solid fluidization systems. He is currently a contributing developer to two widely used open-source multiphase flow platforms, LIGGGHTS and CPL-Library. Over the past five years, he has authored more than 30 peer-reviewed journal publications.
 
 Further details, including a Chinese version of his biography, can be found on the university [website](https://me.gxu.edu.cn/)
 
