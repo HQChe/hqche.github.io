@@ -30,7 +30,12 @@
 - name: Yuanhe Yue
   photo: team/albert-hibbs.svg
   position: Associate Professor, Hebei University of Science and Technology
-  info: CFD-DEM applications
+  info: CFD-DEM and applications
+
+- name: Shuai Wang
+  photo: team/albert-hibbs.svg
+  position: Associate Professor, Zhejiang University
+  info: CFD-DEM and applications
 
 - name: Zhaohua Jiang
   photo: team/thomas-curtright.svg
