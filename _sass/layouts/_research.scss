@@ -19,19 +19,12 @@
   gap: var(--space-6);
 }
 
-// .research-card {
-//   background: linear-gradient(
-//     160deg,
-//     var(--bg-card) 0%,
-//     var(--bg-secondary) 100%
-//   );
-
 .research-card {
-  display: grid;
-  grid-template-columns: 350px 1fr;
-  gap: 2rem;
-  align-items: center;
-}
+  background: linear-gradient(
+    160deg,
+    var(--bg-card) 0%,
+    var(--bg-secondary) 100%
+  );
   
   border: 1px solid var(--border-color);
   border-radius: var(--radius-xl);
