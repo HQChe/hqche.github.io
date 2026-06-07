@@ -36,7 +36,7 @@ permalink: /team/
 </div>
 
 {% if site.data.team_members.size > 0 %}
-## Team Members
+## Members
 
 <div class="team-grid">
 {% for member in site.data.team_members %}
@@ -61,13 +61,13 @@ permalink: /team/
 <div class="section-card">
 <table class="alumni-table">
 <thead>
-<tr><th>Name</th><th>Duration</th><th>Position & Research Interests</th></tr>
+<tr><th>Name</th><th>Position</th><th>Research Interests</th></tr>
 </thead>
 <tbody>
 {% for member in site.data.alumni %}
 <tr>
 <td>{{ member.name }}</td>
-<td>{{ member.duration }}</td>
+<td>{{ member.position }}</td>
 <td>{{ member.info }}</td>
 </tr>
 {% endfor %}
