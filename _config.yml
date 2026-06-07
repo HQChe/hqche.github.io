@@ -26,8 +26,8 @@ accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: false #true              # show dark mode toggle in navbar
 description: "Academic webpage of Dr. Hanqiao Che"
   
-baseurl: "/mycv"
-url: "https://hqche.github.io"
+baseurl: ""
+url: "https://hche.github.io"
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
   google_id: ""
