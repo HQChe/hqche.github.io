@@ -10,11 +10,13 @@ permalink: /
 
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Multiphase Flow</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">CFD</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">DEM</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">PNM</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">ECT</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">OpenFOAM</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">OpenPNM</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">LAMMPS</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">LIGGGHTS</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">PEPT</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">ECT</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Microwave Tomography</a>
 </div>
 
 Hanqiao Che received his Ph.D. from the Institute of Engineering Thermophysics, Chinese Academy of Sciences, in July 2018. In October 2019, he joined Imperial College London as a postdoctoral researcher, where he worked on multiphase flow simulations in geotechnical engineering applications. In May 2021, he moved to the School of Chemical Engineering at the University of Birmingham to continue his postdoctoral research. Since December 2023, he has been serving as an Associate Professor in the School of Mechanical Engineering at Guangxi University.
