@@ -14,8 +14,11 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">OpenPNM</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">LAMMPS</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">LIGGGHTS</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">CFDEM</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">PEPT</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">ECT</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">PIV</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">EIT</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Microwave Tomography</a>
 </div>
 
