@@ -8,6 +8,7 @@ permalink: /team/
 ## Team
 
 **We are looking for new team members!**
+Interested? Please contact me by email.
 
 ## PI
 
