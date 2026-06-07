@@ -2,12 +2,17 @@
 // Research page — card grid
 // =============================================================
 
+// .research-grid {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+//   gap: var(--space-6);
+// }
 .research-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: var(--space-6);
+  grid-template-columns: 1fr;
+  max-width: 1000px;
+  margin: 0 auto;
 }
-
 .research-card {
   background: linear-gradient(
     160deg,
