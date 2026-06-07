@@ -1,15 +1,38 @@
 # Former lab members.
 # Each entry needs: name, duration, info
 # Optional: photo, email
+- name: Haigang Wang
+  photo: team/george-zweig.svg
+  position: Professor, Beihang University
+  info:  Multiphase flow measurement and modeling
+
+- name: Wuqiang Yang
+  position: Professor, The University of Manchester
+  info:  Electrical Capacitance Tomography
+  
+- name: Jonathan Seville
+  position: Professor, The University of Birmingham
+  info:  Formulation Engineering
+
+- name: "Catherine O'Sullivan"
+  position: Professor, Imperial College London
+  info:  Particulate Soil Mechanics
+
+- name: Kit Windows-Yule
+  position: Associate Professor, The University of Birmingham
+  info:  Multiphase flow measurement and modeling
 
 - name: Kun Li
   photo: team/george-zweig.svg
-  info: North University of China, PEPT technology
+  position: Associate Professor, The University of Birmingham
+  info: PEPT technology
 
 - name: Yuanhe Yue
   photo: team/albert-hibbs.svg
-  info: Hebei University of Science and Technology, CFD-DEM applications
+  position: Associate Professor, Hebei University of Science and Technology
+  info: CFD-DEM applications
 
 - name: Zhaohua Jiang
   photo: team/thomas-curtright.svg
-  info: Chongqing Jiaotong University, Particle mixing and segregation
+  position: Associate Professor, Chongqing Jiaotong University
+  info: Particle mixing and segregation
