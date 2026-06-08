@@ -55,7 +55,7 @@
 // Collapsible bibtex/abstract
 .pub-collapse {
   max-height: 0;
-  overflow: hidden;
+  overflow:  visible;
   transition: max-height var(--transition-slow);
 
   &.show {
