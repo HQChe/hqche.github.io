@@ -9,7 +9,8 @@ permalink: /publications/
 
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
-{% bibliography --query @article %}
+{% bibliography --query @inproceedings %}
+</div>
 
 
 
