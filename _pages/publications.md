@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 ### Publications
----------
+---
 ### CFD-DEM and Multiphase Flow Simulation
 
 #### Method Development
@@ -51,21 +51,17 @@ permalink: /publications/
 
 #### Multiphase Flow Measurement and Process Tomography
 
-##### Electrical Capacitance Tomography (ECT)
-
 1. Che, H., Wu, M., Ye, J., Yang, W., & Wang, H. (2018). **Monitoring a lab-scale Wurster type fluidized bed process by electrical capacitance tomography**. *Flow Measurement and Instrumentation*, 62, 223–234.
 
 2. Che, H., Ye, J., Tu, Q., Yang, W., & Wang, H. (2018). **Investigation of coating process in Wurster fluidised bed using electrical capacitance tomography**. *Chemical Engineering Research and Design*, 132, 1180–1192.
 
 3. Che, H., Wang, H., Ye, J., & Yang, W. (2020). **Control of pellets coating in a Wurster fluidised bed by means of electrical capacitance tomography**. *Transactions of the Institute of Measurement and Control*, 42(4), 729–742.
 
-##### Microwave Tomography and Imaging
+4. Che, H., Wang, H., Ye, J., Yang, W., & Wu, Z. (2018). **Application of microwave tomography to investigation the wet gas-solids flow hydrodynamic characteristics in a fluidized bed**. *Chemical Engineering Science*, 180, 20–32.
 
-1. Che, H., Wang, H., Ye, J., Yang, W., & Wu, Z. (2018). **Application of microwave tomography to investigation the wet gas-solids flow hydrodynamic characteristics in a fluidized bed**. *Chemical Engineering Science*, 180, 20–32.
+5. Sun, J., Tian, W., Che, H., Sun, S., Gao, S., Xu, L., & Yang, W. (2019). **Proportional–integral controller modified Landweber iterative method for image reconstruction in electrical capacitance tomography**. *IEEE Sensors Journal*, 19(19), 8790–8802.
 
-2. Sun, J., Tian, W., Che, H., Sun, S., Gao, S., Xu, L., & Yang, W. (2019). **Proportional–integral controller modified Landweber iterative method for image reconstruction in electrical capacitance tomography**. *IEEE Sensors Journal*, 19(19), 8790–8802.
-
-3. Wang, H., Che, H., Ye, J., Tu, Q., Wu, Z., Yang, W., & Ocone, R. (2018). **Application of process tomography in gas–solid fluidised beds in different scales and structures**. *Measurement Science and Technology*, 29(4), 044001.
+6. Wang, H., Che, H., Ye, J., Tu, Q., Wu, Z., Yang, W., & Ocone, R. (2018). **Application of process tomography in gas–solid fluidised beds in different scales and structures**. *Measurement Science and Technology*, 29(4), 044001.
 
 ---
 
