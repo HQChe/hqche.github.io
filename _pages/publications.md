@@ -5,11 +5,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-### Publications
+## Publications
 
-For the complete list of Hanqiao's publications, please visit his [Google Scholar profile](https://scholar.google.com/citations?user=aYxds5AAAAAJ&hl=en).
+For the complete list of Hanqiao's publications, please visit his [Google Scholar](https://scholar.google.com/citations?user=aYxds5AAAAAJ&hl=en).
 
-====
+---
 
 ### CFD-DEM and Multiphase Flow Simulation
 
