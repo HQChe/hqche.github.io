@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 ### Publications
-
+---------
 ### CFD-DEM and Multiphase Flow Simulation
 
 #### Method Development
@@ -31,7 +31,7 @@ permalink: /publications/
 
 6. Su, Z., Li, K., & Che, H. (2026). **CFD-DEM insights into packed bed grain drying: Capturing intra-particle heat and moisture dynamics**. *Powder Technology*.
 
-### Packed Beds and Heat Transfer
+##### Packed Beds and Heat Transfer
 
 1. Che, H., Wang, Z., Wang, S., Li, K., Yue, Y., & Jiang, Z. (2026). **Deep insights into fluid flow structures in Raschig ring packed beds via particle-resolved CFD-DEM**. *AIChE Journal*, 72(5), e70241.
 
@@ -39,7 +39,7 @@ permalink: /publications/
 
 3. Che, H., & Chen, T. (2022). **Numerical investigation of the particle circulation characteristics in a tapered fluidized bed**. *Engineering Computations*, 39(9), 3296–3319.
 
-### Model Validation and DEM Studies
+##### Model Validation and DEM Studies
 
 1. Che, H., Werner, D., Seville, J., Wheldon, T. K., & Windows-Yule, K. (2023). **Evaluation of coarse-grained CFD-DEM models with the validation of PEPT measurements**. *Particuology*, 82, 48–63.
 
@@ -49,9 +49,9 @@ permalink: /publications/
 
 ---
 
-## Multiphase Flow Measurement and Process Tomography
+#### Multiphase Flow Measurement and Process Tomography
 
-### Electrical Capacitance Tomography (ECT)
+##### Electrical Capacitance Tomography (ECT)
 
 1. Che, H., Wu, M., Ye, J., Yang, W., & Wang, H. (2018). **Monitoring a lab-scale Wurster type fluidized bed process by electrical capacitance tomography**. *Flow Measurement and Instrumentation*, 62, 223–234.
 
@@ -59,7 +59,7 @@ permalink: /publications/
 
 3. Che, H., Wang, H., Ye, J., & Yang, W. (2020). **Control of pellets coating in a Wurster fluidised bed by means of electrical capacitance tomography**. *Transactions of the Institute of Measurement and Control*, 42(4), 729–742.
 
-### Microwave Tomography and Imaging
+##### Microwave Tomography and Imaging
 
 1. Che, H., Wang, H., Ye, J., Yang, W., & Wu, Z. (2018). **Application of microwave tomography to investigation the wet gas-solids flow hydrodynamic characteristics in a fluidized bed**. *Chemical Engineering Science*, 180, 20–32.
 
@@ -69,7 +69,7 @@ permalink: /publications/
 
 ---
 
-## Review Articles
+#### Review Articles
 
 1. Zhu, X., Xu, Y., Tu, Q., Che, H., & Wang, H. (2024). **Advanced measurement techniques for gas-solids fluidized beds in the power and energy industry: A review**. *Measurement: Energy*, 4, 100030.
 
