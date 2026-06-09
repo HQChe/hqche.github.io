@@ -5,11 +5,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications by Research Area
+### Publications
 
-## CFD-DEM and Multiphase Flow Simulation
+### CFD-DEM and Multiphase Flow Simulation
 
-### Method Development
+#### Method Development
 
 1. Che, H., O'Sullivan, C., Sufian, A., & Smith, E. R. (2021). **A novel CFD-DEM coarse-graining method based on the Voronoi tessellation**. *Powder Technology*, 384, 479–493.
 
