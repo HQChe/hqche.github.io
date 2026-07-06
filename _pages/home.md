@@ -26,7 +26,7 @@ Hanqiao Che received his Ph.D. from the Institute of Engineering Thermophysics, 
 
 His research focuses on the application of advanced experimental measurement techniques and numerical simulation methods to investigate multiphase flow phenomena in industrial processes, with particular emphasis on gas–solid fluidization systems. He is currently a contributing developer to two widely used open-source multiphase flow platforms, LIGGGHTS and CPL-Library. Over the past five years, he has authored more than 30 peer-reviewed journal publications.
 
-Further details, including a Chinese version of his biography, can be found on the university [website](https://me.gxu.edu.cn/)
+A Chinese version of his biography can be found on the university [website](https://me.gxu.edu.cn/)
 
 
 <!-- <div class="callout callout-success" markdown="0">
