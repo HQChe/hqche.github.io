@@ -1,6 +1,9 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
+- date: 20 August, 2026
+  headline: "Hanqiao's paper on fluidization Bond number has been published for publication in Powder Technology."
+  
 - date: 6 June, 2026
   headline: "Xiyang's paper on side-spray fluidized beds has been accepted for publication in Powder Technology."
 
